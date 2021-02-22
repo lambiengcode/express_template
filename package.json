@@ -10,7 +10,7 @@
     "pm2": "yarn build && yarn pm2:start",
     "pm2:start": "pm2 start ecosystem.config.js"
   },
-  "author": "lcnghia",
+  "author": "lambiengcode",
   "license": "ISC",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
