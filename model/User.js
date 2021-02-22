@@ -2,7 +2,6 @@ import { defaultModel, userRole, statusActive, gender, providerType } from '../c
 
 export default {
   id: defaultModel.string,
-
   fullName: defaultModel.string,
   email: defaultModel.string,
   image: defaultModel.string,

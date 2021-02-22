@@ -48,4 +48,4 @@ connectDatabase()
 
 server.listen(process.env.PORT)
 
-console.log('Starting Load: Adel tour server started at port ' + process.env.PORT)
+console.log('Server run on port ' + process.env.PORT)
